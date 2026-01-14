@@ -1,0 +1,1 @@
+Version: 1.0 - Release Notes: Added a new blog section 
